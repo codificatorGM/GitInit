@@ -4,8 +4,6 @@
   
 - 🌱 I’m currently learning information system engineering...
   
-- 💞️ I’m looking to collaborate on Java Swing MYSQL projects...
-  
 - 📫 How to reach me
 - Email: hruns2000@gmail.com
 - IG: @hugonorori22
